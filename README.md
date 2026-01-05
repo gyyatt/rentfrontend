@@ -1,16 +1,44 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 💻 RentSpace - Frontend
 
-Currently, two official plugins are available:
+This is the React.js frontend for the **Rental Space Management System**. It provides a modern, responsive interface for users to browse, list, and manage rental properties.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Site
+- **Live Demo:** [https://rentfrontend-sigma.vercel.app/](https://rentfrontend-sigma.vercel.app/)
 
-## React Compiler
+## 🛠️ Tech Stack
+- **Framework:** React.js (Vite)
+- **Styling:** Tailwind CSS (for modern, utility-first UI)
+- **Data Fetching:** Axios
+- **State Management:** React Context API (User authentication & Tokens)
+- **Routing:** React Router DOM
+- **Hosting:** Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
+- **Dual User Roles:** Specialized dashboards for Sellers (to manage listings) and Consumers (to browse).
+- **Listing Management:** Full CRUD operations to create, view, and manage rental spaces.
+- **Image Handling:** Support for property image uploads via `FormData`.
+- **JWT Authentication:** Secure access using JSON Web Tokens stored in local storage.
+- **Responsive UI:** Optimized for all devices from mobile to desktop.
 
-## Expanding the ESLint configuration
+## ⚙️ Local Setup
+Follow these steps to run the frontend on your local machine:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/YOUR_FRONTEND_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_FRONTEND_REPO_NAME.git)
+   cd YOUR_FRONTEND_REPO_NAME
+
+
+   ---
+
+### Instructions for your GitHub "About" section:
+To make your frontend repo look complete, click the **Gear icon** next to "About" on the right side of the GitHub page and fill it in like this:
+
+* **Description:** "React frontend for the Rental Space Management System. Built with Tailwind CSS and integrated with a Django REST API."
+* **Website:** `https://rentfrontend-sigma.vercel.app/`
+* **Topics:** `react`, `tailwindcss`, `vercel`, `frontend`, `axios`, `jwt-auth`
+
+
+
+**Would you like me to help you create a `LICENSE` file (like MIT) to add to your repository as well?**
