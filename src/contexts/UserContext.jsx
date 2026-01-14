@@ -6,7 +6,8 @@ export const UserContext = createContext();
 
 export const UserProvider = ({ children }) => {
     const [user, setUser] = useState(null);
-    const [token, setToken] = useState(null);  // ✅ FIXED: null, not JSON.parse
+    const [token, setToken] = useState(localStorage.getItem('token') || null);
+    // const [token, setToken] = useState(null);  // ✅ FIXED: null, not JSON.parse
     const [userLoading, setUserLoading] = useState(true);
     const navigate = useNavigate();
 
